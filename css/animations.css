@@ -1,0 +1,14 @@
+@keyframes typing{
+    from {width: 0;}
+    to{ width: 100;}
+}
+
+@keyframes blink {
+    60%{ border-color: transparent;}
+}
+
+@keyframes rebound {
+    from {transform: translateY(0%);}
+    to {transform: translateY(-8%);}
+
+}
