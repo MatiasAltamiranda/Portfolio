@@ -161,17 +161,16 @@ nav a span{
 
 .btn-aboutME{
     border: 1px solid #550840;
-    background-color: #000;
+    background-color: #550840;
     padding: 1rem;
     border-radius: 4rem;
     width: 11rem;
-    color: #550840;
+    color: #fff;
     font-size: 1.5rem;
 }
 
 .btn-aboutME:hover{
-    background-color: #550840;
-    color: #fff;
+    background-color: #000;
 }
 
 /*PROJECTS*/
